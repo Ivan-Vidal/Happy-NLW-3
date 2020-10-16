@@ -39,8 +39,16 @@ levando alegria e carinho para diversas crianças.
 
 - CSS3 (FlexBox / Grid);
 
-- JavaScript (ES20)
+- JavaScript (ES20);
 
+- Node JS;
 
+- Express;
+
+- Node Packages Manager (NPM);
+
+- Handlebar; 
+
+- Nodemon;
 
 ## Obrigado pela visita !
