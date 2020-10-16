@@ -41,9 +41,12 @@ main{
     overflow: hidden;
     opacity: 0.6;
     transition: opacity 0.3s;
+    outline: none;
 }
 .images button:hover, .images button.active{
     opacity: 1;
+    border: 1px solid #4794bb;
+
     
 }
 .images button img{
