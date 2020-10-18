@@ -19,9 +19,9 @@ aside.sidebar footer button {
     align-items: center;
     justify-content: center;
     transition: background-color 0.2s;
-    
+    outline: none;
 }
-aside.sidebar footer button:hover{
+aside.sidebar footer button:hover, aside.sidebar footer button:active{
     background: #17D6EB ;
 }
 
