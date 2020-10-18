@@ -1,16 +1,16 @@
-# Happy
+# Happy <br><br>
 
 
+### Aplicação desenvolvida durante a NLW#3 oferecida pela Rocketseat <br>
 
-### Aplicação em desenvolvimento no NLW#3 pela Rocketseat
+
 
 #### Objetivo
 
 Desenvolver uma aplicação que cadastre orfanatos de determinada região e disponibilize localização e contato com os mesmos,
 levando alegria e carinho para diversas crianças.
 
-
-##### Front-End terminado no dia 14/10/2020
+##### Projeto desenvolvido de 12/10 até 17/10
 
 #### Page-Landing:
 
@@ -33,7 +33,9 @@ levando alegria e carinho para diversas crianças.
 
 
 
-### Tecnologias utilizadas *até o momento*
+### Tecnologias utilizadas
+
+**FRONT-END**
 
 - HTML5;
 
@@ -41,14 +43,26 @@ levando alegria e carinho para diversas crianças.
 
 - JavaScript (ES20);
 
+- Handlebar; 
+
+**BACK-END**
+
 - Node JS;
 
 - Express;
 
 - Node Packages Manager (NPM);
 
-- Handlebar; 
-
 - Nodemon;
+
+### Contribuição
+
+- clone o repositório clicando <a href="https://github.com/Ivan-Vidal/Happy-NLW-3.git" style="text-decoration: none;" >aqui</a>;
+
+- Instale as dependências utilizando o comando **npm install** em seu terminal (Certifique-se que está na pasta onde o clone do projeto está localizado);
+
+- Dentro do terminal execute o comando **npm start**;
+
+- Abra o seu navegador favorito e digite    **https://localhost:5500** e aproveite todas as funcionalidades;
 
 ## Obrigado pela visita !
