@@ -14,22 +14,22 @@ levando alegria e carinho para diversas crianças.
 
 #### Page-Landing:
 
-<img src="public/images/home-pages.gif" style="width:300px; height:300px;">
+<img src="public/images/home-pages.gif" style="width:100%;">
 
 
 #### Localize-Orphanages:
 
-<img src="public/images/Localize-orfanato.gif" style="width:300px; height:300px;">
+<img src="public/images/Localize-orfanato.gif" style="width:100%;">
 
 
 #### Page-Orphanages:
 
-<img src="public/images/Lar-meninas.gif" style="width:300px; height:300px;">
+<img src="public/images/Lar-meninas.gif" style="width:100%;">
 
 
 #### Page-Create-Orphanage:
 
-<img src="public/images/add-orfanato.gif" style="width:300px; height:300px;">
+<img src="public/images/add-orfanato.gif" style="width:100%;">
 
 
 
